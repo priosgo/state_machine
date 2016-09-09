@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1472865424 source:c:\users\prios\desktop\sm_w_pointers\main.c
+	<stdio.h>
+	<stdlib.h>
+	"sm_w_p.h"
+
+1472866995 source:c:\users\prios\desktop\sm_w_pointers\sm_w_p.c
+	"sm_w_p.h"
+	<stdio.h>
+	<stdlib.h>
+
+1472864333 c:\users\prios\desktop\sm_w_pointers\sm_w_p.h
+
